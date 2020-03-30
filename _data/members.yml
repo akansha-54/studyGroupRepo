@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: ADITYA DEWAN
+  affiliation: JNU
+  github: adityade
   interests:
     - Programming
-    - Open Science
+    - Data Science 
+    - Cricket
