@@ -1,16 +1,3 @@
-# update in March 2020
-
-Please feel free to use the materials hosted here to build your own Study Groups, though keep in mind that Mozilla is no longer actively supporting this program.
-
-Our heartfelt :sparkling_heart: and appreciation to all the Study Group Leads and participants who made this program the success that it was.
-
-Much of the work done by the Science Lab has moved on in some way under the Open Leadership & Events Team.  If you're interested in that work, you can see how that work is being continued on [their website](https://foundation.mozilla.org/en/initiatives/open-leadership-events/).
-
----
-
-### [इसे हिंदी में पढ़ें](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-hi.md)
-
-
 # Mozilla Study Groups
 
 Welcome to [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! From here, we'll set you up with everything you need to start your own study group.
@@ -47,6 +34,9 @@ Everything you need to set up your own beautiful Mozilla Study Group website (it
 
 If anything in these instructions doesn't work or doesn't make sense, ask a question in the [Gitter chat](https://gitter.im/mozillascience/studyGroup), open an issue [here](https://github.com/mozillascience/studyGroup/issues) or email sciencelab@mozillafoundation.org.
 
+## TO READ IN HINDI CLICK ON THE LINK BELOW !!!!!
+
+### [इसे हिंदी में पढ़ें](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-hi.md)
 
 
 
