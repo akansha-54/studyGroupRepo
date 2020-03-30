@@ -1,3 +1,5 @@
+---
+
 title: Hack Intern Fair
 text:  Internship fair for all the Study Group Members 
 location: Jawahar Kala Kendra Stadium, Jaipur
@@ -5,3 +7,5 @@ link: https://github.com/akansha-54/studyGroupRepo/issues/1
 date: 2020-04-05
 startTime: '10:00'
 endTime: '13:00'
+
+---
